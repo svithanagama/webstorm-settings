@@ -1,1 +1,5 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <CssCodeStyleSettings>
+    <option name="BRACE_PLACEMENT" value="1" />
+  </CssCodeStyleSettings>
+</code_scheme>
