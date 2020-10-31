@@ -1,5 +1,12 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="CodeCompletion" />
+  <action id="CodeCompletionGroup">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="meta y" />
   </action>
 </keymap>
