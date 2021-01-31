@@ -1,6 +1,7 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
